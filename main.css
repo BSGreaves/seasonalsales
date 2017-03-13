@@ -1,0 +1,32 @@
+body {
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	background-color: lightgrey;
+	width: 80%;
+	margin: 0 auto;
+}
+
+header {
+	margin-bottom: 20px;
+}
+
+h2 {
+	margin-left: 30px;
+}
+
+.sales {
+	border: 2px solid darkgrey;
+	border-radius: 5px;
+	margin: 5px;
+}
+
+.productName {
+	font-size: 1em;
+	margin-left: 10px;
+}
+
+.productPrice {
+	font-size: .8em;
+	margin-left: 15px;
+	font-style: italic;
+	font-color: grey;
+}
